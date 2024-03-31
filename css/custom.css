@@ -318,7 +318,7 @@ svg.social_icon {
   overflow: hidden;
 }
 
-/* 音乐播放器 */
+/* 音乐播放器
 
 /* .aplayer .aplayer-lrc {
   display: none !important;
@@ -394,7 +394,7 @@ svg.social_icon {
   opacity: 0;
   transition: .3s;
   top: -8px
-}
+} */
 
 /*哔哩哔哩视频适配*/
 .aspect-ratio {
@@ -503,3 +503,4 @@ body::-webkit-scrollbar {
   background: #3ecdf1;
   color: #f2f2f2;
 }
+
