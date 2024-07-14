@@ -4,6 +4,169 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2024/07/14/test/"/>
+      <url>/2024/07/14/test/</url>
+      
+        <content type="html"><![CDATA[<p>11111</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> _posts </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> _posts </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2024/07/01/%E7%AC%94%E8%AE%B0%E6%96%B9%E6%B3%95/"/>
+      <url>/2024/07/01/%E7%AC%94%E8%AE%B0%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="【all-in-one】"><a href="#【all-in-one】" class="headerlink" title="【all-in-one】"></a>【all-in-one】</h2><ol><li>怎么写？</li></ol><ul><li><p>公事</p></li><li><p>私事</p></li><li><p>生活</p></li><li><p>工作</p></li><li><p>……你所有想记下来的的信息、思考、知识，甚至旅游规划、草稿等</p><ul><li>不需要分类</li><li>按时间的逻辑记录</li></ul></li></ul><ol start="2"><li>能解决什么问题？</li></ol><ul><li>降低做笔记的难度<ul><li>特点：先写后整理，先把能写的都无门槛的记录</li></ul></li><li>留住了更多的灵感和思考<ul><li>特点：不讲究排版；不讲究你写的好不好看</li></ul></li><li>没有其他的顾虑了<ul><li>实在的本子，是实实在在的东西</li></ul></li></ul><ol start="3"><li>该如何整理？</li></ol><ul><li>当天写的时候标注好当天的日期，最好每个时间段的上面都标注</li><li>制作检索表格，使用电脑建一个Excel表格放在桌面即可<br><img src="/../images/xx0016.png" alt="检索表"></li></ul><ol start="4"><li>使用过程中的致命错误</li></ol><ul><li>对任何笔记内容都不要犹豫。对于内容犹豫该不该记的时候，就应该记，马上记；</li><li>不要额外增加笔记本的难度。除了标注时间外，不要增加其他符号；</li><li>不要在意周围人的目光，走到哪里都可以带着这个笔记本。</li></ul><ol start="5"><li>用什么本子写？</li></ol><ul><li>要厚</li><li>皮不能太软也不能太硬</li><li>最好要<strong>格子</strong>内页；<strong>空白</strong>也行</li><li>本子推荐：<ol><li>never笔记本（目前没有博主相同的）</li><li><a href="https://mobile.yangkeduo.com/goods.html?ps=jmHnagfW0y">锦——笔记本</a> </li><li><a href="https://mobile.yangkeduo.com/goods1.html?ps=VnM87akt0o">屿鱼笔记本</a></li></ol></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux</title>
+      <link href="/2024/05/09/linux/"/>
+      <url>/2024/05/09/linux/</url>
+      
+        <content type="html"><![CDATA[<h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><ul><li>网络配置：win+r打开命令框，输入ncpa.cpl打开网络适配页面</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序员 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 操作系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Snipaste提升工作效率</title>
+      <link href="/2024/05/06/Snipaste%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/"/>
+      <url>/2024/05/06/Snipaste%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/</url>
+      
+        <content type="html"><![CDATA[<h1 id="让-Snipaste-帮你提高工作效率"><a href="#让-Snipaste-帮你提高工作效率" class="headerlink" title="让 Snipaste 帮你提高工作效率"></a>让 Snipaste 帮你提高工作效率</h1><p><strong><a href="https://docs.snipaste.com/zh-cn/">用户手册</a></strong></p><div class="note default simple"><p>Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 F1 来开始截图，再按 F3，截图就在桌面置顶显示了。就这么简单！<br>你还可以将剪贴板里的文字或者颜色信息转化为图片窗口，并且将它们进行缩放、旋转、翻转、设为半透明，甚至让鼠标能穿透它们！如果你是程序员、设计师，或者是大部分工作时间都在电脑前，贴图功能将改变你的工作方式、提升工作效率。<br>Snipaste 使用很简单，但同时也有一些较高级的用法可以进一步提升你的工作效率。感兴趣的话，请抽空读一读用户手册。<br>Snipaste 是免费软件，它也很安全，没有广告、不会扫描你的硬盘、更不会上传用户数据，它只做它应该做的事。</p></div> <h2 id="强大的截图"><a href="#强大的截图" class="headerlink" title="强大的截图"></a>强大的截图</h2><ul><li>自动检测界面元素区域</li><li>像素级的鼠标移动控制、截图范围控制</li><li>取色器 (试试 F1, C, F3)</li><li>历史记录回放 (,&#x2F;.)</li><li>支持多屏</li><li>支持高分屏<br><img src="/../images/xx0010.png" alt="xx0010"></li></ul><h2 id="把图片作为窗口置顶显示"><a href="#把图片作为窗口置顶显示" class="headerlink" title="把图片作为窗口置顶显示"></a>把图片作为窗口置顶显示</h2><blockquote><p>支持将剪贴板中的以下内容转为图片<br>图像<br>纯文本<br>HTML 文本<br>颜色信息<br>图像文件：PNG, JPG, BMP, ICO, GIF 等<br>图片窗口支持的操作<br>缩放 (鼠标滚轮 或者 +&#x2F;-)<br>对于 GIF 图片则是加速&#x2F;减速<br>旋转 (1&#x2F;2)<br>对于 GIF 图片则是 上一帧&#x2F;下一帧<br>镜像翻转 (3&#x2F;4)<br>设置透明度 (Ctrl + 鼠标滚轮 或者 Ctrl + +&#x2F;-)<br>鼠标穿透<br>缩略图 (Shift + 双击)<br>图像标注 (空格键)<br>隐藏 (左键双击)<br>…<br>取色 (Alt)<br>文件拖放<br>贴图分组<br>自动备份、恢复<br><img src="/../images/xx0011.png" alt="xx0011"></p></blockquote><h2 id="方便地标注图像"><a href="#方便地标注图像" class="headerlink" title="方便地标注图像"></a>方便地标注图像</h2><blockquote><p>丰富的画图工具<br>矩形<br>椭圆<br>线条<br>箭头<br>铅笔<br>马克笔<br>文字<br>高级标注工具<br>马赛克<br>高斯模糊<br>橡皮擦<br>撤销、重做<br><img src="/../images/xx0012.png" alt="xx0012"></p></blockquote><h2 id="自定义设置"><a href="#自定义设置" class="headerlink" title="自定义设置"></a>自定义设置</h2><ul><li>主题色、界面字体、通知栏图标等</li><li>快捷键</li><li>丰富的功能性选项</li></ul><p><img src="/../images/xx0013.png" alt="xx0013"><br><img src="/../images/xx0014.png" alt="xx0014"><br><img src="/../images/xx0015.png" alt="xx0015"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软件、路由器和软路由翻墙优缺点</title>
+      <link href="/2024/05/03/%E8%BD%AF%E4%BB%B6%E3%80%81%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E8%BD%AF%E8%B7%AF%E7%94%B1%E7%BF%BB%E5%A2%99%E4%BC%98%E7%BC%BA%E7%82%B9/"/>
+      <url>/2024/05/03/%E8%BD%AF%E4%BB%B6%E3%80%81%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E8%BD%AF%E8%B7%AF%E7%94%B1%E7%BF%BB%E5%A2%99%E4%BC%98%E7%BC%BA%E7%82%B9/</url>
+      
+        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>科学上网</title>
+      <link href="/2024/05/02/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <url>/2024/05/02/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</url>
+      
+        <content type="html"><![CDATA[<h2 id="美区APPLE-ID注册方法"><a href="#美区APPLE-ID注册方法" class="headerlink" title="美区APPLE ID注册方法"></a>美区APPLE ID注册方法</h2><p>手机更容易注册成功</p><ol><li>第一步</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>说说深拷贝、浅拷贝</title>
+      <link href="/2024/04/29/%E8%AF%B4%E8%AF%B4%E6%B7%B1%E6%8B%B7%E8%B4%9D%E3%80%81%E6%B5%85%E6%8B%B7%E8%B4%9D/"/>
+      <url>/2024/04/29/%E8%AF%B4%E8%AF%B4%E6%B7%B1%E6%8B%B7%E8%B4%9D%E3%80%81%E6%B5%85%E6%8B%B7%E8%B4%9D/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序员 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>求职_面试</title>
       <link href="/2024/04/24/%E6%B1%82%E8%81%8C_%E9%9D%A2%E8%AF%95/"/>
       <url>/2024/04/24/%E6%B1%82%E8%81%8C_%E9%9D%A2%E8%AF%95/</url>
@@ -33,7 +196,7 @@
       <link href="/2024/04/21/AI%E8%BE%85%E5%8A%A9/"/>
       <url>/2024/04/21/AI%E8%BE%85%E5%8A%A9/</url>
       
-        <content type="html"><![CDATA[<h2 id="静静教主"><a href="#静静教主" class="headerlink" title="静静教主"></a>静静教主</h2><p><a href="https://www.douyin.com/user/MS4wLjABAAAAb08tGwYIIVCzo9rpV-LnMNvmadUZPHzP1zbEMCDpYuQ?is_search=0&list_name=follow&modal_id=7357993240546594060&nt=0">推荐抖音百万fans的学习博主:jiaozhu2019</a></p><p><a href="https://chat.openai.com/">推荐ChatGPT3.5（有实力可以上4.0）</a></p><p><a href="https://www.doubao.com/chat/?from_login=1&origin_landing=https://www.doubao.com/">博主推荐的抖音豆包AI</a></p><p><a href="https://ai.caomaoweilai.com/">草帽AI（这个是小鹅通的，要花钱的）</a></p><h2 id="1-反向写作"><a href="#1-反向写作" class="headerlink" title="1. 反向写作"></a>1. 反向写作</h2><blockquote><p>给AI一个链接或者一篇文章，让它帮你处理重点。<strong>但你真的放心给它吗???</strong></p></blockquote><div class="note default simple"><p><strong>把你写的文章的链接丢给AI，看它提炼的是不是你想要表达的重点，如果不是的话，就可能是你文章逻辑不清楚；同理是可以用它来处理自己的作文、演讲稿、述职报告…….</strong></p></div> <h2 id="2-锻炼记忆力"><a href="#2-锻炼记忆力" class="headerlink" title="2. 锻炼记忆力"></a>2. 锻炼记忆力</h2><blockquote><p>你是捧着书，想着<strong>一个个往脑子里装</strong>，你是这样的吗？</p></blockquote><div class="note default simple"><p><strong>如果是你要注意了，不能这么玩了，而是看着大纲去反复提取！！！</strong></p></div> <blockquote><p>试用人群</p></blockquote><ul><li>考公</li><li>考研</li><li>考试</li></ul><p><img src="/../images/xx0005.png" alt="操作方法"></p><div class="note default simple"><p><strong>等AI提炼出重点后，你就可以想想这个点的完整表述是什么？？？着重锻炼自己的提取能力，背书能力会有大幅度提升！！！</strong></p></div> <h2 id="3-定制书单"><a href="#3-定制书单" class="headerlink" title="3. 定制书单"></a>3. 定制书单</h2><blockquote><p><strong>【个人版每月书单】</strong><br><em>当你书荒，或者急需了解一本书的时候（也可以是一件事哈，换汤不换药！！）</em><br><strong>交流话术（细致问）</strong>：<br>    1. 你能不能告诉我这本书里的具体方法是什么？<br>    2. 这本书给出了几个方法去达到XXXX目的？<br>    3. ….</p></blockquote><p><img src="/../images/xx0006.png" alt="书单"></p><h2 id="4-工作分身"><a href="#4-工作分身" class="headerlink" title="4. 工作分身"></a>4. 工作分身</h2><blockquote><p>想不想以其他人的视角去了解你自己？想不想知道老板认为你这个代码写的咋样？可以先让自己心里有个预期，哈哈哈哈^_^</p></blockquote><p><img src="/../images/xx0007.png" alt="工作分身"></p><h2 id="5-工作求助"><a href="#5-工作求助" class="headerlink" title="5. 工作求助"></a>5. 工作求助</h2><blockquote><p><strong>这个应该是使用最高的场景了，让AI代替百度、谷歌，简单来说让它直接帮你回答问题</strong></p></blockquote><p><img src="/../images/xx0008.png" alt="工作求助"></p><h2 id="6-生活辅助"><a href="#6-生活辅助" class="headerlink" title="6.生活辅助"></a>6.生活辅助</h2><blockquote><p><strong>旅行规划师（这个是一个模块） OR 生活饮食计划</strong></p></blockquote><p><img src="/../images/xx0009.png" alt="规划"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="学会使用AI"><a href="#学会使用AI" class="headerlink" title="学会使用AI"></a>学会使用AI</h1><h2 id="静静教主"><a href="#静静教主" class="headerlink" title="静静教主"></a>静静教主</h2><p><a href="https://www.douyin.com/user/MS4wLjABAAAAb08tGwYIIVCzo9rpV-LnMNvmadUZPHzP1zbEMCDpYuQ?is_search=0&list_name=follow&modal_id=7357993240546594060&nt=0">推荐抖音百万fans的学习博主:jiaozhu2019</a></p><p><a href="https://a3.ai55.cc/">免费国内GPT的网站收录</a></p><p><a href="https://chat.openai.com/">推荐ChatGPT3.5（有实力可以上4.0）</a></p><p><a href="https://www.doubao.com/chat/?from_login=1&origin_landing=https://www.doubao.com/">博主推荐的抖音豆包AI</a></p><p><a href="https://ai.caomaoweilai.com/">草帽AI（这个是小鹅通的，要花钱的）</a></p><h2 id="适用对象"><a href="#适用对象" class="headerlink" title="适用对象"></a>适用对象</h2><p>所有的大语言模型</p><ul><li>ChatGPT</li><li>Claude</li><li>Notice</li><li>ChatSonic</li><li>Bard（谷歌）</li><li>New Bing</li><li>文心一言（百度）</li><li>盘古（华为）</li><li>混元助手（腾讯）</li><li>…..</li></ul><h2 id="区分GPT版本"><a href="#区分GPT版本" class="headerlink" title="区分GPT版本"></a>区分GPT版本</h2><ul><li>直接问GPT——“你是什么版本的？”<blockquote><p><strong>GPT是不会欺骗你的</strong></p></blockquote></li></ul><h2 id="训练AI角色"><a href="#训练AI角色" class="headerlink" title="训练AI角色"></a>训练AI角色</h2><p>简单来说，就是在一个聊天框内，只问GPT一种类型的相关的问题，问Java就只问Java，不要问其他的</p><h2 id="如何更好的提问题和调教AI"><a href="#如何更好的提问题和调教AI" class="headerlink" title="如何更好的提问题和调教AI"></a>如何更好的提问题和调教AI</h2><ol><li>优秀的prompt</li></ol><h2 id="1-反向写作"><a href="#1-反向写作" class="headerlink" title="1. 反向写作"></a>1. 反向写作</h2><blockquote><p>给AI一个链接或者一篇文章，让它帮你处理重点。<strong>但你真的放心给它吗???</strong></p></blockquote><div class="note default simple"><p><strong>把你写的文章的链接丢给AI，看它提炼的是不是你想要表达的重点，如果不是的话，就可能是你文章逻辑不清楚；同理是可以用它来处理自己的作文、演讲稿、述职报告…….</strong></p></div> <h2 id="2-锻炼记忆力"><a href="#2-锻炼记忆力" class="headerlink" title="2. 锻炼记忆力"></a>2. 锻炼记忆力</h2><blockquote><p>你是捧着书，想着<strong>一个个往脑子里装</strong>，你是这样的吗？</p></blockquote><div class="note default simple"><p><strong>如果是你要注意了，不能这么玩了，而是看着大纲去反复提取！！！</strong></p></div> <blockquote><p>试用人群</p></blockquote><ul><li>考公</li><li>考研</li><li>考试</li></ul><p><img src="/../images/xx0005.png" alt="操作方法"></p><div class="note default simple"><p><strong>等AI提炼出重点后，你就可以想想这个点的完整表述是什么？？？着重锻炼自己的提取能力，背书能力会有大幅度提升！！！</strong></p></div> <h2 id="3-定制书单"><a href="#3-定制书单" class="headerlink" title="3. 定制书单"></a>3. 定制书单</h2><blockquote><p><strong>【个人版每月书单】</strong><br><em>当你书荒，或者急需了解一本书的时候（也可以是一件事哈，换汤不换药！！）</em><br><strong>交流话术（细致问）</strong>：<br>    1. 你能不能告诉我这本书里的具体方法是什么？<br>    2. 这本书给出了几个方法去达到XXXX目的？<br>    3. ….</p></blockquote><p><img src="/../images/xx0006.png" alt="书单"></p><h2 id="4-工作分身"><a href="#4-工作分身" class="headerlink" title="4. 工作分身"></a>4. 工作分身</h2><blockquote><p>想不想以其他人的视角去了解你自己？想不想知道老板认为你这个代码写的咋样？可以先让自己心里有个预期，哈哈哈哈^_^</p></blockquote><p><img src="/../images/xx0007.png" alt="工作分身"></p><h2 id="5-工作求助"><a href="#5-工作求助" class="headerlink" title="5. 工作求助"></a>5. 工作求助</h2><blockquote><p><strong>这个应该是使用最高的场景了，让AI代替百度、谷歌，简单来说让它直接帮你回答问题</strong></p></blockquote><p><img src="/../images/xx0008.png" alt="工作求助"></p><h2 id="6-生活辅助"><a href="#6-生活辅助" class="headerlink" title="6.生活辅助"></a>6.生活辅助</h2><blockquote><p><strong>旅行规划师（这个是一个模块） OR 生活饮食计划</strong></p></blockquote><p><img src="/../images/xx0009.png" alt="规划"></p>]]></content>
       
       
       <categories>
